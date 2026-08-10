@@ -1,0 +1,26 @@
+{
+  "features": [
+    "LivingArea",
+    "BedroomsTotal",
+    "BathroomsTotalInteger",
+    "LotSizeAcres",
+    "YearBuilt",
+    "GarageSpaces",
+    "ParkingTotal",
+    "AssociationFee",
+    "LotSizeAcres_missing",
+    "GarageSpaces_missing",
+    "AssociationFee_missing",
+    "PropertyAge",
+    "BedBathRatio",
+    "LivingAreaPerBedroom",
+    "City",
+    "CountyOrParish",
+    "PostalCode",
+    "MLSAreaMajor",
+    "HighSchoolDistrict"
+  ],
+  "target": "ClosePrice",
+  "test_month": "2026-06",
+  "final_model": "XGBoost"
+}
